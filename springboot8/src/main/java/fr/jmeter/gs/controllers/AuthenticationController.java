@@ -10,6 +10,7 @@ public class AuthenticationController {
 
     @GetMapping("/user")
     public OidcUser getUser(@AuthenticationPrincipal OidcUser user) {
+        System.out.println("Authentification > User " + user.getEmail());
         return user;
 
     }

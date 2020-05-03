@@ -1,0 +1,2 @@
+client_id, scope,state,redirect_uri, nonce
+0oaanyn8n1sdPBD4e4x6, openid profile email address phone offline_access,58Q3IrHscLUaqmQ43PlDbE9V4jobgiexJueZkhJs9iA=,http://localhost:8080/login/oauth2/code/okta,ilO4XzzZZAPC5gpvErdnovR-Tk-z-crXokyWTZzvjPI
